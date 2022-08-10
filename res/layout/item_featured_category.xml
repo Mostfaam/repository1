@@ -1,0 +1,74 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="com.yosefmoq.odoo.helper.ImageHelper.ImageType" />
+
+        <variable
+            name="data"
+            type="com.yosefmoq.odoo.model.generic.FeaturedCategoryData" />
+
+        <variable
+            name="handler"
+            type="com.yosefmoq.odoo.handler.home.FeaturedCategoryHandler" />
+    </data>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:onClick="@{()->handler.viewCategory()}"
+        android:padding="@dimen/spacing_generic"
+        >
+        <!--app:cardCornerRadius="4dp">-->
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/product_iv"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:background="@color/activityBackground"
+            android:padding="@dimen/spacing_generic"
+            app:civ_border_color="@color/black"
+            app:civ_border_width="1dp"
+            app:imageType="@{ImageType.PRODUCT_TINY}"
+
+            app:imageUrl="@{data.url}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:placeholder="@{@drawable/ic_vector_odoo_placeholder_grey400_48dp}"
+            app:srcCompat="@drawable/ic_vector_odoo_placeholder_grey400_48dp"
+            tools:ignore="ContentDescription"
+            />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:maxLines="1"
+            android:paddingStart="@dimen/spacing_tiny"
+            android:paddingLeft="@dimen/spacing_tiny"
+            android:paddingTop="@dimen/spacing_tiny"
+            android:paddingEnd="@dimen/spacing_tiny"
+            android:paddingRight="@dimen/spacing_tiny"
+            android:paddingBottom="@dimen/spacing_tiny"
+            android:textAllCaps="true"
+
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_small"
+            android:textStyle="bold"
+            app:htmlText="@{data.categoryName}"
+            app:layout_constraintEnd_toEndOf="@+id/product_iv"
+            app:layout_constraintStart_toStartOf="@+id/product_iv"
+            app:layout_constraintTop_toBottomOf="@+id/product_iv"
+            tools:text="Magento" />
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

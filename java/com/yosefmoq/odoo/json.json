@@ -1,0 +1,506 @@
+[
+  {
+    "seller_id": 52,
+    "name": "Blake Clancy",
+    "email": "blake-clancy@test.com",
+    "average_rating": 5.0,
+    "total_reviews": 2,
+    "sales_count": 2.0,
+    "product_count": 5,
+    "seller_profile_image": "https://mpdemo.webkul.com/website/image/res.partner/52/profile_image?unique=20211011102403",
+    "seller_profile_banner": "https://mpdemo.webkul.com/website/image/res.partner/52/profile_banner?unique=20211011102403",
+    "create_date": "2020-11-06 16:35:26",
+    "state": "California",
+    "country": "United States",
+    "phone": "914-943-1187",
+    "mobile": "914-943-1187",
+    "profile_msg": "",
+    "return_policy": "You have 30 calender days to return an item from the day you received it.\n                Your item must be in the original packaging.\n                To be eligible for the return, your item must be unused and should be in the same condition in which you received it.\n                Your items need to have the receipt or proof of purchase.",
+    "shipping_policy": "Thanks for visiting and shopping at my site\n                shipping processing time\n                All orders are processed within 2-3 business days.Orders are not shipped or delivered on weekends or holidays\n                If we are experiencing a high volume of orders, shipment may be delayed for few days.Please allow additional days in transit for delivery. If there will be significant delay in shipment of your order we will inform you via email or text message\n                Shipping rates and delivery charges are calculated as per the shipping method opted and estimated delivery time that may vary on the method select for shipment\n                Delivery delays can occasionally occur.\n            ",
+    "seller_reviews": [
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 5,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Awesome service with Awesome product.",
+        "message_is_follower": false,
+        "title": "Awesome service with Awesome product.",
+        "id": 5,
+        "msg": "Seller delivery speed is awesome, product as well.",
+        "helpful": 1,
+        "email": "agrolait@yourcompany.example.com",
+        "name": "Deco Addict",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/10/profile_image?unique=20201106161053"
+      },
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 5,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Awesome service with Awesome product.",
+        "message_is_follower": false,
+        "title": "Awesome service with Awesome product.",
+        "id": 10,
+        "msg": "Seller delivery speed is awesome, product as well.",
+        "helpful": 1,
+        "email": "tang@asustek.com",
+        "name": "Willie Burke",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/16/profile_image?unique=20201106161053"
+      }
+    ],
+    "sellerProducts": {
+      "offset": 0,
+      "tcount": 6,
+      "products": [
+        {
+          "templateId": 81,
+          "name": "Merrell Running Shoe",
+          "priceUnit": "$121.50",
+          "priceReduce": "",
+          "productId": 93,
+          "productCount": 1,
+          "description": "\n            \tLeather/Synthetic\n\t\t\t\tImported\n\t\t\t\tVibram sole\n\t\t\t\tHiking shoe with water-resistant leather and mesh upper featuring rubber toe bumper and heel counter\n\t\t\t\tCompression-molded EVA footframe\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/81/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 80,
+          "name": "Leather Casual Shoe",
+          "priceUnit": "$126.00",
+          "priceReduce": "",
+          "productId": 92,
+          "productCount": 1,
+          "description": "\n            \tColor: Brown\n\t\t\t\tUpper Material: Genuine Leather\n\t\t\t\tSole Material: RUBBER LIKE (EVA)\n\t\t\t\tClosing: Lace-up\n\t\t\t\tTip shape: Round\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/80/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 79,
+          "name": "Orange Heel",
+          "priceUnit": "$135.00",
+          "priceReduce": "",
+          "productId": 91,
+          "productCount": 1,
+          "description": "\n            \tMaterial:fabric\n\t\t\t\tColor: Orange\n\t\t\t\tBrand:HEAD OVER HEELS LADIES\n\t\t\t\tHeel:high\n\t\t\t\tHeel Height:9.5 cm\n\t\t\t\tHeel Shape:stiletto heel\n\t\t\t\tFeature:straps\n\t\t\t\tLining Material:synthetic\n\t\t\t\tSole Material:synthetic\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/79/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 77,
+          "name": "Apple iPhone 6",
+          "priceUnit": "$31,499.10",
+          "priceReduce": "",
+          "productId": 89,
+          "productCount": 1,
+          "description": "Apple iPhone 6 smartphone was launched in September 2014. The phone comes with a 4.70-inch touchscreen display with a resolution of 750 pixels by 1334 pixels at a PPI of 326 pixels per inch. Apple iPhone 6 price in India starts from Rs. 27,990.\n\n\t\t\tIt comes with 1GB of RAM. The phone packs 16GB of internal storage cannot be expanded. As far as the cameras are concerned, the Apple iPhone 6 packs a 8-megapixel primary camera on the rear and a 1.2-megapixel front shooter for selfies.\n\n\t\t\tThe Apple iPhone 6 runs iOS 8.0 and is powered by a 1810mAh non removable battery. It measures 138.10 x 67.00 x 6.90 (height x width x thickness) and weigh 129.00 grams.\n\n\t\t\tThe Apple iPhone 6 is a single SIM (GSM) smartphone that accepts a Nano-SIM. Connectivity options include Wi-Fi, GPS, Bluetooth, NFC, 3G and 4G (with support for Band 40 used by some LTE networks in India). Sensors on the phone include Compass Magnetometer, Proximity sensor, Accelerometer, Ambient light sensor, Gyroscope and Barometer.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/77/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 76,
+          "name": "Samsung Galaxy S Duos",
+          "priceUnit": "$3,869.10",
+          "priceReduce": "",
+          "productId": 88,
+          "productCount": 1,
+          "description": "Samsung Galaxy S Duos smartphone was launched in November 2012. The phone comes with a 4.00-inch touchscreen display with a resolution of 480 pixels by 800 pixels at a PPI of 233 pixels per inch. Samsung Galaxy S Duos price in India starts from Rs. 18,488.\n\n\t\t\tThe Samsung Galaxy S Duos is powered by 1GHz it comes with 768MB of RAM. The phone packs 4GB of internal storage that can be expanded up to 32GB via a microSD card. As far as the cameras are concerned, the Samsung Galaxy S Duos packs a 5-megapixel primary camera on the rear and a 0.3-megapixel front shooter for selfies.\n\n\t\t\tThe Samsung Galaxy S Duos runs Android 4.0 and is powered by a 1500mAh removable battery. It measures 121.50 x 63.10 x 10.50 (height x width x thickness) and weigh 120.00 grams.\n\n\t\t\tThe Samsung Galaxy S Duos is a dual SIM (GSM and GSM) smartphone that accepts Regular and Regular. Connectivity options include Wi-Fi, GPS, Bluetooth, FM and 3G. Sensors on the phone include Compass Magnetometer, Proximity sensor and Accelerometer.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/76/image_1920?unique=20210716021425"
+        }
+      ]
+    }
+  },
+  {
+    "seller_id": 48,
+    "name": "Bryon Jun",
+    "email": "bryon-jun@test.com",
+    "average_rating": 5.0,
+    "total_reviews": 2,
+    "sales_count": 4.0,
+    "product_count": 6,
+    "seller_profile_image": "https://mpdemo.webkul.com/website/image/res.partner/48/profile_image?unique=20211011102403",
+    "seller_profile_banner": "https://mpdemo.webkul.com/website/image/res.partner/48/profile_banner?unique=20211011102403",
+    "create_date": "2020-11-06 16:35:26",
+    "state": "",
+    "country": "",
+    "phone": "914-943-1187",
+    "mobile": "914-943-1187",
+    "profile_msg": "",
+    "return_policy": "You have 30 calender days to return an item from the day you received it.\n                Your item must be in the original packaging.\n                To be eligible for the return, your item must be unused and should be in the same condition in which you received it.\n                Your items need to have the receipt or proof of purchase.",
+    "shipping_policy": "Thanks for visiting and shopping at my site\n                shipping processing time\n                All orders are processed within 2-3 business days.Orders are not shipped or delivered on weekends or holidays\n                If we are experiencing a high volume of orders, shipment may be delayed for few days.Please allow additional days in transit for delivery. If there will be significant delay in shipment of your order we will inform you via email or text message\n                Shipping rates and delivery charges are calculated as per the shipping method opted and estimated delivery time that may vary on the method select for shipment\n                Delivery delays can occasionally occur.\n            ",
+    "seller_reviews": [
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 5,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Awesome service with Awesome product.",
+        "message_is_follower": false,
+        "title": "Awesome service with Awesome product.",
+        "id": 1,
+        "msg": "Seller delivery speed is awesome, product as well.",
+        "helpful": 1,
+        "email": "agrolait@yourcompany.example.com",
+        "name": "Deco Addict",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/10/profile_image?unique=20201106161053"
+      },
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 5,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Awesome service with Awesome product.",
+        "message_is_follower": false,
+        "title": "Awesome service with Awesome product.",
+        "id": 6,
+        "msg": "Seller delivery speed is awesome, product as well.",
+        "helpful": 1,
+        "email": "tang@asustek.com",
+        "name": "Willie Burke",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/16/profile_image?unique=20201106161053"
+      }
+    ],
+    "sellerProducts": {
+      "offset": 0,
+      "tcount": 6,
+      "products": [
+        {
+          "templateId": 41,
+          "name": "Gold Plated Bangle3",
+          "priceUnit": "$801.00",
+          "priceReduce": "",
+          "productId": 53,
+          "productCount": 1,
+          "description": "\n            \tThis Gold Plated AD Bangle For Women is made of Alloy. Women love jewellery; specially traditional jewellery adore a women. They wear it on different occasion. They have special importance on ring ceremony, wedding and festive time. They can also wear it on regular basics. Make your moment memorable with this range. This jewel set features a unique one of a kind traditional embellish with antic finish.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/41/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 40,
+          "name": "Gold Plated Bangle2",
+          "priceUnit": "$981.00",
+          "priceReduce": "",
+          "productId": 52,
+          "productCount": 1,
+          "description": "\n            \tThis Gold Plated AD Bangle For Women is made of Alloy. Women love jewellery; specially traditional jewellery adore a women. They wear it on different occasion. They have special importance on ring ceremony, wedding and festive time. They can also wear it on regular basics. Make your moment memorable with this range. This jewel set features a unique one of a kind traditional embellish with antic finish.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/40/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 39,
+          "name": "Gold Plated Bangle1",
+          "priceUnit": "$891.00",
+          "priceReduce": "",
+          "productId": 51,
+          "productCount": 1,
+          "description": "\n            \tThis Gold Plated AD Bangle For Women is made of Alloy. Women love jewellery; specially traditional jewellery adore a women. They wear it on different occasion. They have special importance on ring ceremony, wedding and festive time. They can also wear it on regular basics. Make your moment memorable with this range. This jewel set features a unique one of a kind traditional embellish with antic finish.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/39/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 37,
+          "name": "Sky Blue Bag",
+          "priceUnit": "$126.00",
+          "priceReduce": "",
+          "productId": 49,
+          "productCount": 1,
+          "description": "\n            \tThe bag has two compartments for convenience and has a cute mobile pouch.Be it for office or for a party , its a great buy.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/37/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 36,
+          "name": "Black Bag",
+          "priceUnit": "$153.00",
+          "priceReduce": "",
+          "productId": 48,
+          "productCount": 1,
+          "description": "\n            \tThe bag has two compartments for convenience and has a cute mobile pouch.Be it for office or for a party , its a great buy.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/36/image_1920?unique=20210716021425"
+        }
+      ]
+    }
+  },
+  {
+    "seller_id": 50,
+    "name": "George Horne",
+    "email": "george-horne@test.com",
+    "average_rating": 4.0,
+    "total_reviews": 2,
+    "sales_count": 2.0,
+    "product_count": 5,
+    "seller_profile_image": "https://mpdemo.webkul.com/website/image/res.partner/50/profile_image?unique=20211011102403",
+    "seller_profile_banner": "https://mpdemo.webkul.com/website/image/res.partner/50/profile_banner?unique=20211011102403",
+    "create_date": "2020-11-06 16:35:26",
+    "state": "",
+    "country": "",
+    "phone": "914-943-1187",
+    "mobile": "914-943-1187",
+    "profile_msg": "",
+    "return_policy": "You have 30 calender days to return an item from the day you received it.\n                Your item must be in the original packaging.\n                To be eligible for the return, your item must be unused and should be in the same condition in which you received it.\n                Your items need to have the receipt or proof of purchase.",
+    "shipping_policy": "Thanks for visiting and shopping at my site\n                shipping processing time\n                All orders are processed within 2-3 business days.Orders are not shipped or delivered on weekends or holidays\n                If we are experiencing a high volume of orders, shipment may be delayed for few days.Please allow additional days in transit for delivery. If there will be significant delay in shipment of your order we will inform you via email or text message\n                Shipping rates and delivery charges are calculated as per the shipping method opted and estimated delivery time that may vary on the method select for shipment\n                Delivery delays can occasionally occur.\n            ",
+    "seller_reviews": [
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 4,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Good service with Good product.",
+        "message_is_follower": false,
+        "title": "Good service with Good product.",
+        "id": 3,
+        "msg": "Seller delivery speed is good, product as well.",
+        "helpful": 1,
+        "email": "agrolait@yourcompany.example.com",
+        "name": "Deco Addict",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/10/profile_image?unique=20201106161053"
+      },
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 4,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Good service with Good product.",
+        "message_is_follower": false,
+        "title": "Good service with Good product.",
+        "id": 8,
+        "msg": "Seller delivery speed is good, product as well.",
+        "helpful": 1,
+        "email": "tang@asustek.com",
+        "name": "Willie Burke",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/16/profile_image?unique=20201106161053"
+      }
+    ],
+    "sellerProducts": {
+      "offset": 0,
+      "tcount": 9,
+      "products": [
+        {
+          "templateId": 64,
+          "name": "Wood chair",
+          "priceUnit": "$719.10",
+          "priceReduce": "",
+          "productId": 76,
+          "productCount": 1,
+          "description": "\n            \tFeatures\n            \t========\n\t\t\t\tMagellan collection\n\t\t\t\tMade of wood and manmade wood\n\t\t\t\tTwo-tone finish\n\t\t\t\tMade in the USA\n\n\t\t\t\tProduct Details\n\t\t\t\t===============\n\t\t\t\tNumber of Items Included: 1\n\t\t\t\tFrame Material: Manufactured wood\n\t\t\t\tSeat Frame Material: Wood\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/64/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 63,
+          "name": "Metallic chair",
+          "priceUnit": "$1,799.10",
+          "priceReduce": "",
+          "productId": 75,
+          "productCount": 1,
+          "description": "\n            \tIt is the ultimate place to find furniture which suits your home, your personality and most of all you\n\n\t\t\t\tEclectic furniture combines design elements or particular styles from different time periods and different origins within a single piece. Bold and bright colors are hallmark feature of metal a range of furniture which is made with raw wood, sheet metal and metal rods painted or powder coated in vibrant colours.\n\n\t\t\t\tFurniture bought on Pepperfry.com is shipped for free and comes with a 1 Year Warranty against any manufacturing defects. We also offer you a 7-Day Easy Return window. So go ahead and buy with confidence.\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/63/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 62,
+          "name": "Sofa 2 Seater",
+          "priceUnit": "$1,799.10",
+          "priceReduce": "",
+          "productId": 74,
+          "productCount": 1,
+          "description": "\n            \t* Material: Solid Wood (Miranty Wood) And Fabric\n\t\t\t\t* Color: Brown\n\t\t\t\t* Style: Contemporary\n\t\t\t\t* Upholstery Material: Fabric\n\t\t\t\t* Frame Material: Solid Wood\n\t\t\t\t* Filling Material: Foam\n\t\t\t\t* Two Seater Sofa Height: 29 inches (73 cm), Length: 50 inches (125 cm), Width: 30 inches (75 cm)\n\t\t\t\t* Delivery Condition: Assembled\n\t\t\t\t* Quantity: 1 Piece (Two Seater Sofa)\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/62/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 61,
+          "name": "Sofa 1 Seater",
+          "priceUnit": "$899.10",
+          "priceReduce": "",
+          "productId": 73,
+          "productCount": 1,
+          "description": "Sofa Position:Width-30 Inches x Depth-30 Inches x Height 26 Inches , Bed Position:Width 30 Inches x Depth-72 Inches x Height-7 Inches\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/61/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 60,
+          "name": "Sofa (5+3 Seater)",
+          "priceUnit": "$2,609.10",
+          "priceReduce": "",
+          "productId": 72,
+          "productCount": 1,
+          "description": "\n\t            * Material: Leatherite\n\t\t\t\t* Color: Brown\n\t\t\t\t* Style: Contemporary\n\t\t\t\t* Upholstery Material: Leatherite\n\t\t\t\t* Frame Material: Solid Wood\n\t\t\t\t* Leg Material: Solid Wood\n\t\t\t\t* Filling Material: Polyfiber\n\t\t\t\t* Three Seater Sofa Height: 38.4 inches (96 cm), Length: 81.2 inches (203 cm), Width: 37 inches (93 cm)\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/60/image_1920?unique=20210716021425"
+        }
+      ]
+    }
+  },
+  {
+    "seller_id": 49,
+    "name": "Maya Anand",
+    "email": "maya-anand@test.com",
+    "average_rating": 4.0,
+    "total_reviews": 2,
+    "sales_count": 6.0,
+    "product_count": 5,
+    "seller_profile_image": "https://mpdemo.webkul.com/website/image/res.partner/49/profile_image?unique=20211011102403",
+    "seller_profile_banner": "https://mpdemo.webkul.com/website/image/res.partner/49/profile_banner?unique=20211011102403",
+    "create_date": "2020-11-06 16:35:26",
+    "state": "",
+    "country": "",
+    "phone": "914-943-1187",
+    "mobile": "914-943-1187",
+    "profile_msg": "",
+    "return_policy": "You have 30 calender days to return an item from the day you received it.\n                Your item must be in the original packaging.\n                To be eligible for the return, your item must be unused and should be in the same condition in which you received it.\n                Your items need to have the receipt or proof of purchase.",
+    "shipping_policy": "Thanks for visiting and shopping at my site\n                shipping processing time\n                All orders are processed within 2-3 business days.Orders are not shipped or delivered on weekends or holidays\n                If we are experiencing a high volume of orders, shipment may be delayed for few days.Please allow additional days in transit for delivery. If there will be significant delay in shipment of your order we will inform you via email or text message\n                Shipping rates and delivery charges are calculated as per the shipping method opted and estimated delivery time that may vary on the method select for shipment\n                Delivery delays can occasionally occur.\n            ",
+    "seller_reviews": [
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 4,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Good service with Good product.",
+        "message_is_follower": false,
+        "title": "Good service with Good product.",
+        "id": 2,
+        "msg": "Seller delivery speed is good, product as well.",
+        "helpful": 1,
+        "email": "agrolait@yourcompany.example.com",
+        "name": "Deco Addict",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/10/profile_image?unique=20201106161053"
+      },
+      {
+        "create_date": "2020-11-06 16:35:26",
+        "rating": 4,
+        "not_helpful": 0,
+        "total_votes": 1,
+        "display_name": "Good service with Good product.",
+        "message_is_follower": false,
+        "title": "Good service with Good product.",
+        "id": 7,
+        "msg": "Seller delivery speed is good, product as well.",
+        "helpful": 1,
+        "email": "tang@asustek.com",
+        "name": "Willie Burke",
+        "image": "https://mpdemo.webkul.com/web/image/res.partner/16/profile_image?unique=20201106161053"
+      }
+    ],
+    "sellerProducts": {
+      "offset": 0,
+      "tcount": 7,
+      "products": [
+        {
+          "templateId": 52,
+          "name": "Champagne Bottle",
+          "priceUnit": "$270.00",
+          "priceReduce": "",
+          "productId": 64,
+          "productCount": 1,
+          "description": "Perfect for graduations, weddings, and New Year\"s Eve. These bubble fluid bottles take the form of champagne bottles.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/52/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 50,
+          "name": "Duff Beer Bottle",
+          "priceUnit": "$216.00",
+          "priceReduce": "",
+          "productId": 62,
+          "productCount": 1,
+          "description": "Duff Beer is a brand of beer that originally started as a fictional beverage on the animated series The Simpsons. Since then it has become a real brand of beer in a number of countries without permission or consent from its original creator, Matt Groening, and has resulted in legal battles with varying results. An official version of the beer is sold in three variations near The Simpsons Ride at Universal Studios. In 2015, 21st Century Fox, producer of The Simpsons, began selling licensed Duff beer in Chile, with a view to driving out unlicensed brandjacking",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/50/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 49,
+          "name": "Diary For Personal Use",
+          "priceUnit": "$99.00",
+          "priceReduce": "",
+          "productId": 61,
+          "productCount": 1,
+          "description": "Available in attractive cover designs.Notebook consists of high quality papers.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/49/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 48,
+          "name": "Set of 6 Hard Cover Note Book",
+          "priceUnit": "$189.00",
+          "priceReduce": "",
+          "productId": 60,
+          "productCount": 1,
+          "description": "Available in attractive cover designs.Notebook consists of high quality papers.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/48/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 47,
+          "name": "Drawing Note Book",
+          "priceUnit": "$9.00",
+          "priceReduce": "",
+          "productId": 59,
+          "productCount": 1,
+          "description": "Available in attractive cover designs.Drawing Notebook consists of high quality papers.",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/47/image_1920?unique=20210716021425"
+        }
+      ]
+    }
+  },
+  {
+    "seller_id": 53,
+    "name": "Molly Raws",
+    "email": "molly-raws@test.com",
+    "average_rating": 0,
+    "total_reviews": 0,
+    "sales_count": 0.0,
+    "product_count": 4,
+    "seller_profile_image": "https://mpdemo.webkul.com/website/image/res.partner/53/profile_image?unique=20211011102403",
+    "seller_profile_banner": "https://mpdemo.webkul.com/website/image/res.partner/53/profile_banner?unique=20211011102403",
+    "create_date": "2020-11-06 16:35:26",
+    "state": "",
+    "country": "",
+    "phone": "914-943-1187",
+    "mobile": "914-943-1187",
+    "profile_msg": "",
+    "return_policy": "You have 30 calender days to return an item from the day you received it.\n                Your item must be in the original packaging.\n                To be eligible for the return, your item must be unused and should be in the same condition in which you received it.\n                Your items need to have the receipt or proof of purchase.",
+    "shipping_policy": "Thanks for visiting and shopping at my site\n                shipping processing time\n                All orders are processed within 2-3 business days.Orders are not shipped or delivered on weekends or holidays\n                If we are experiencing a high volume of orders, shipment may be delayed for few days.Please allow additional days in transit for delivery. If there will be significant delay in shipment of your order we will inform you via email or text message\n                Shipping rates and delivery charges are calculated as per the shipping method opted and estimated delivery time that may vary on the method select for shipment\n                Delivery delays can occasionally occur.\n            ",
+    "seller_reviews": [],
+    "sellerProducts": {
+      "offset": 0,
+      "tcount": 7,
+      "products": [
+        {
+          "templateId": 89,
+          "name": "Brown Girls T-Shirt",
+          "priceUnit": "$278.10",
+          "priceReduce": "",
+          "productId": 101,
+          "productCount": 1,
+          "description": "\n            \tFabric: Cotton\n\t\t\t\tSleeves: SHORT SLEEVES\n\t\t\t\tFit: Regular\n\t\t\t\tColor: Brown\n\t\t\t\tWash Care: Gentle Wash\n\t\t\t\tStyle: Solid\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/89/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 88,
+          "name": "Pink Girls T-Shirt",
+          "priceUnit": "$368.10",
+          "priceReduce": "",
+          "productId": 100,
+          "productCount": 1,
+          "description": "\n            \tFabric: Cotton\n\t\t\t\tSleeves: SHORT SLEEVES\n\t\t\t\tFit: Regular\n\t\t\t\tColor: Pink\n\t\t\t\tWash Care: Gentle Wash\n\t\t\t\tStyle: Solid\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/88/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 87,
+          "name": "Cadet Blue Girls T-Shirt",
+          "priceUnit": "$368.10",
+          "priceReduce": "",
+          "productId": 99,
+          "productCount": 1,
+          "description": "\n            \tFabric: Cotton\n\t\t\t\tSleeves: SHORT SLEEVES\n\t\t\t\tFit: Regular\n\t\t\t\tColor: CadetBlue\n\t\t\t\tWash Care: Gentle Wash\n\t\t\t\tStyle: Solid\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/87/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 86,
+          "name": "Sky Blue Men T-Shirt",
+          "priceUnit": "$458.10",
+          "priceReduce": "",
+          "productId": 98,
+          "productCount": 1,
+          "description": "\n            \tFabric: Cotton\n\t\t\t\tSleeves: SHORT SLEEVES\n\t\t\t\tFit: Regular\n\t\t\t\tColor: Sky Blue\n\t\t\t\tWash Care: Gentle Wash\n\t\t\t\tStyle: Solid\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/86/image_1920?unique=20210716021425"
+        },
+        {
+          "templateId": 85,
+          "name": "Yellow Men T-Shirt",
+          "priceUnit": "$458.10",
+          "priceReduce": "",
+          "productId": 97,
+          "productCount": 1,
+          "description": "\n            \tFabric: Cotton\n\t\t\t\tSleeves: SHORT SLEEVES\n\t\t\t\tFit: Regular\n\t\t\t\tColor: Yellow\n\t\t\t\tWash Care: Gentle Wash\n\t\t\t\tStyle: Solid\n\t\t\t",
+          "thumbNail": "https://mpdemo.webkul.com/web/image/product.template/85/image_1920?unique=20210716021425"
+        }
+      ]
+    }
+  }
+]

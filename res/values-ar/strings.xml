@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بالكو بت</string>
+    <string name="lightMode">وضع الضوء</string>
+    <string name="darkMode">الوضع المظلم</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="reventviewedproduct">هل أنت متأكد من أنك تريد مسح منتجك المعروض مؤخرًا</string>
+    <string name="clearsearch">امسح البحث السابق</string>
+    <string name="clearsearchhistory">هل أنت متأكد من أنك تريد مسح سجل البحث الخاص بك</string>
+    <string name="clearrecent">مسح العرض الأخير</string>
+    <string name="setting">الإعدادات</string>
+    <string name="show_notification">إظهار الإخطار</string>
+    <string name="show_recent_review">إظهار طريقة العرض الأخيرة</string>
+    <string name="categories">أصناف</string>
+
+</resources>

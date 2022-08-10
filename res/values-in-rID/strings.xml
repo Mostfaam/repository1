@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Mobikul Odoo</string>
+    <string name="store_name" translatable="false">Mobikul</string>
+    <string name="deeplinking_host" translatable="false">demo.webkul.com</string>
+    <string name="home">Home</string>
+    <string name="powered_by_mobikul">Powered by Mobikul</string>
+    <string name="facebook_app_id" translatable="false">dummy</string> <!--live fb app id -->
+    <string name="fb_login_protocol_scheme" translatable="false">dummy</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" translatable="false">dummy</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" translatable="false">dummy</string>
+
+    <!--user color code as of accent color.-->
+    <string name="signup_text_on_sign_in_page"><![CDATA[New in Mobikul. <font color="#55D6BE">SIGN-UP</font> now.]]></string>
+    <string name="signin_text_on_sign_up_page"><![CDATA[Already have an account.  <font color="#55D6BE">SIGN-IN</font> now.]]></string>
+    <string name="mobikul" translatable="false">Mobikul</string>
+    <!---->
+    <!--Menu-->
+    <string name="search">Cari</string>
+    <string name="search_hint">Cariâ€¦</string>
+    <!---->
+    <!---->
+    <!--BASE/ GLOBAL/ GENERIC-->
+    <string name="customer">Konsumen</string>
+    <string name="rate_us">Nilai Kami</string>
+    <string name="share_app">Bagikan</string>
+    <string name="more">Lebih lanjut</string>
+    <string name="enter_quantity">Masukkan Jumlah</string>
+    <string name="quantity">jumlah</string>
+    <string name="choose_an_action">Pilih Aksi:</string>
+    <!---->
+    <!---->
+    <!--Home Page-->
+    <string name="notification">Notifikasi</string>
+    <string name="bag">Keranjang</string>
+    <string name="account">Akun</string>
+    <string name="login">Login</string>
+    <string name="view_all">Lihat Semua</string>
+    <string name="please_wait">Harap Tungguâ€¦</string>
+    <string name="press_back_to_exit">Tekan lagi untuk keluar</string>
+    <!---->
+    <!--DRAWER-->
+    <string name="drawer_open">Buka navigasi</string>
+    <string name="drawer_close">Tutup navigasi</string>
+    <!---->
+    <!---->
+    <!--ERROR ERROR ERRROR ARE EVERY WHEREERERERRE BUT NO ERROR TO FOUND-->
+    <string name="error">Error</string>
+    <string name="error_request_failed">Request gagal, coba lagi</string>
+    <string name="error_request_timeout">Request gagal, coba lagi</string>
+    <string name="error_no_network_cross_check_connection">Koneksi tidak tersedia, harap cek koneksi and coba lagi</string>
+    <string name="error_is_required">harus diisi!</string>
+    <string name="error_enter_valid_email">Masukkan email yang valid!</string>
+    <string name="error_password_length_x">harus min. %d karakter.</string>
+    <string name="error_enter_valid_login_details">Masukkan detail login yang valid</string>
+    <string name="plese_accept_tnc">Silakan terima syarat dan kondisi</string>
+    <string name="error_login_failure">Gagal Login</string>
+    <string name="error_cant_perform_operation">Tidak bisa melakukan operasi saat ini!</string>
+    <string name="error_fill_req_field">Silakan isi kolom yang diwajibkan!</string>
+    <string name="error_this_is_a_required_field">Kolom ini wajib diisi.</string>
+    <string name="error_network_unavailble">Jaringan tak Tersedia</string>
+    <string name="error_please_provide_permission_to_pick_location">Silakan ijinkan untuk melihat lokasi jemput</string>
+    <string name="error_enable_location_of_device">Silakan aktifkan lokasi alat Anda</string>
+    <string name="error_could_get_location_at_this_point">Tidak dapat memperoleh lokasi Anda saat ini</string>
+    <string name="error_something_went_wrong">Ada yang salah</string>
+    <string name="error_could_not_add_to_bag_pls_try_again">Tidak dapat menambah ke keranjang. Silakan coba lagi nanti.</string>
+    <string name="error_could_not_add_to_wishlist_pls_try_again">Tidak dapat menambah ke wishlist. Silakan coba lagi nanti.</string>
+    <string name="error_no_shipping_method_chosen">Silakan cantumkan metode pengiriman.</string>
+    <string name="error_no_payment_method_chosen">Silakan cantumkan metode pembayaran.</string>
+    <string name="error_permision_required_to_change_profile_image">Silakan ijinkan untuk mengubah gambar profil</string>
+    <string name="error_in_changing_profile_image">Terjadi kesalahan saat unggah gambar profil ke server. Silakan coba lagi nanti</string>
+    <string name="error_please_login_to_continue">Silakan login untuk melanjutkan</string>
+    <string name="error_password_not_match">Password tidak cocok</string>
+    <string name="error_invalid_card_number">Silakan masukkan nomor kartu yang valid</string>
+    <string name="error_invalid_cvv">Silakan masukkan CVV yang valid</string>
+    <string name="error_invalid_date">Silakan masukkan tanggal yang valid</string>
+    <string name="error_invalid_card_details">Silakan masukkan detail kartu yang valid</string>
+    <string name="error_order_place">Tidak dapat melakukan pesanan saat ini, Silakan coba lagi nanti</string>
+    <string name="error_inappropriate_details">Silakan sediakan detail yang cocok</string>
+    <string name="error_default_address_not_found">Alamat default tidak ditemukan !</string>
+    <string name="error_failed_to_connect_google">Gagal koneksi ke Google. Silakan coba lagi.</string>
+    <string name="error_billing_address_not_configured">Alamat tagihan belum dikonfigurasi, pilih ubah untuk mengatur alamat Anda</string>
+    <string name="error_google_sign_in">Tidak dapat masuk via Google. Silakan coba lagi.</string>
+    <string name="error_twitter_sign_in">Tidak dapat masuk via Twitter. Silakan coba lagi.</string>
+    <string name="error_in_zip_code">Silakan masukkan kode pos yang valid</string>
+    <!---->
+    <!---->
+    <!--MESSAGES MESSAGES MESSAGES => All Relavent question alert warning messages etc are summed up here.-->
+    <!---->
+    <!---->
+    <string name="msg_are_you_sure">Anda yakin ?</string>
+    <string name="account_created_successfully">Akun berhasil dibuat..</string>
+    <string name="msg_want_to_delete_this_address">Ingin menghapus alamat berikut ?</string>
+    <string name="question_want_to_empty_bag">Ingin mengosongkan keranjang?</string>
+    <string name="question_add_new_address_to_place_order">Tambah alamat baru untuk membuat pesanan ?</string>
+    <string name="message_yes_delete_it">Ya, Hapus</string>
+    <string name="message_deleted">Terhapus</string>
+    <string name="ques_want_to_delete_this_product">Apakah ingin menghapus produk ini?</string>
+    <!--SPLASH SCREEN-->
+    <string name="this_is_a_demo_store">Ini adalah toko demo.</string>
+    <string name="any_orders_placed_from_this_store_will_not_be_honored_or_fullfilled">Setiap pesanan dari toko ini akan diabaikan</string>
+    <string name="odoo">Odoo</string>
+    <string name="title_update_app">Update Tersedia !</string>
+    <string name="new_version_available_X">Versi terbaru aplikasi %s tersedia, Klik OK untuk upgrade ?</string>
+    <string name="remind_later">Ingatkan Nanti</string>
+    <!---->
+    <!---->
+    <!--SIGN IN AND SIGN UP-->
+    <string name="sign_in">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="email">Email</string>
+    <string name="email_or_username">Email/Username</string>
+    <string name="write_your_email_here">Tulis email di sini</string>
+    <string name="write_your_email_or_username_here">Tulis email atau username di sini</string>
+    <string name="password">Password</string>
+    <string name="write_your_password_here">Tulis password di sini</string>
+    <string name="forget_password_heading">Lupa Passwordâ€¦?</string>
+    <string name="forgot_your_password">Lupa password ?</string>
+    <string name="please_enter_your_email_address_below_you_will_receive_a_link_to_reset_your_password_">Masukkan email Anda di bawah. Adan akan menerima link untuk reset password.</string>
+    <string name="link_to_resend_login_password_send">Link Terkirim</string>
+    <string name="your_email">Email Anda</string>
+    <string name="your_name">Nama Anda</string>
+    <string name="e_g_john_doe">misal: Budi</string>
+    <string name="login_successful_message">Login Berhasil</string>
+    <string name="skip">Lewat</string>
+    <string name="use_email_address">Gunakan Alamt Email</string>
+    <string name="or_continue_with">Atau Lanjut dengan</string>
+    <string name="sign_in_with_facebook">Masuk dengan Facebook</string>
+    <string name="sign_in_with_google">Masuk dengan Google</string>
+    <string name="enter_email_address">Masukkan alamat email</string>
+    <string name="enter_your_name">Masukkan nama</string>
+    <string name="enter_telephone_no">Masukkan no telp</string>
+    <string name="enter_street_address">Masukkan jalan</string>
+    <string name="enter_your_city">Masukkan kota</string>
+    <string name="enter_your_postal_code">Masukkan kode pos</string>
+    <string name="enter_your_password">Masukkan password</string>
+    <string name="enter_confirm_password">Masukkan konfirmasi password</string>
+    <string name="error_fb_sign_in">Tidak dapat masuk via Facebook. Silakan coba lagi.</string>
+    <string name="view_term_and_cond">Lihat Syarat dan Kondisi</string>
+    <string name="i_agree_with_term_and_condition">Saya setuju dengan Syarat dan Kondisi</string>
+    <!---->
+    <!---->
+    <!--ACCOUNT FRAGMENT-->
+    <string name="dashboard">Halaman Depan</string>
+    <string name="account_info">Info Akun</string>
+    <string name="address_book">Buku Alamat</string>
+    <string name="sign_out">Keluar</string>
+    <string name="hello_x_">Hallo %s !</string>
+    <string name="choose_from_library">Pilih dari Library</string>
+    <string name="camera_pick">Ambil dari Kamera</string>
+    <string name="select_file">Pilih File</string>
+    <string name="upload_profile_image">Unggah Gambar Profil</string>
+    <string name="deactivate_account">Nonaktifkan Akun Sementara/Permanen</string>
+    <string name="deactivate_temporary">Nonaktifkan Sementara</string>
+    <string name="deactivate_permanent">Nonaktifkan Permanen</string>
+    <string name="deactivate">Nonaktifkan</string>
+    <string name="want_to_deactivate_account">Apakah ingin nonaktifkan akun Anda %1$s ?</string>
+    <string name="download_data">Unduh semua informasi</string>
+    <string name="download">Unduh</string>
+    <string name="download_request">Permintaan Unduh</string>
+    <!---->
+    <!---->
+    <!-- CATALOG PRODUCT ACTIVITY-->
+    <string name="x_results_found">%d Hasil Ditemukan</string>
+    <string name="of_toast_for_no_of_item">dari</string>
+    <string name="that_s_all_folks">~~~ Sudah semua! ~~~</string>
+    <string name="rating_out_of_5">Rating: %1$d/5</string>
+    <string name="reviewed_by">Review Oleh %1$s</string>
+    <!---->
+    <!---->
+    <!--EMPTY LAYOUT STRINGS-->
+    <string name="empty_product_catalog">Maaf produk tidak ditemukan !</string>
+    <string name="no_order_placed">Tidak ada pesanan!</string>
+    <string name="try_different_category_or_search_keyword_maybe">Mencari kategori atau kata cari yang lainâ€¦?</string>
+    <string name="empty_notification">Tidak ada notifikasi !</string>
+    <string name="visit_later_to_check_your_notification">Kunjungi nanti untuk melihat notifikasi</string>
+    <string name="empty_bag">Keranjang Anda kosong !!</string>
+    <string name="add_item_to_your_bag_now">Tambah barang ke keranjang</string>
+    <string name="start_shopping">Mulai Belanja</string>
+    <string name="congrats">Selamat..</string>
+
+    <!---->
+    <!---->
+    <!--SEARCH -->
+    <string name="hint_prompt">Katakan nama barang</string>
+    <string name="related_products">Produk Lainnya</string>
+    <!---->
+    <!---->
+    <!--MY ORDERS-->
+    <string name="all_orders">Daftar Pesanan</string>
+    <string name="my_order">Pesanan Saya</string>
+    <string name="you_have_not_placed_any_orders_yet">Belum ada pesanan</string>
+    <string name="order_no">Pesanan #</string>
+    <string name="date">Tanggal</string>
+    <string name="order_total">Total</string>
+    <string name="status">Status</string>
+    <string name="label_order_shipping_address">Alamat Pengiriman</string>
+    <string name="label_order_billing_address">Alamat Penagihan</string>
+    <string name="orders_product_info">Info Barang</string>
+    <string name="orders_order_details">DETAIL PESANAN</string>
+    <string name="tax">Pajak</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="placed_on_Xdate">Dipesan tanggal %s</string>
+    <string name="state_x">State: %s</string>
+    <string name="unit_price_x">Harga: %s</string>
+    <string name="qty_x">Jumlah: %s</string>
+    <string name="discount_x">Disc: %s</string>
+    <string name="tax_x">Pajak: %s</string>
+    <string name="price_total_x">Total Harga: %s</string>
+    <string name="order_noX">Pesanan #%s</string>
+    <!---->
+    <!---->
+    <!--WISHLIST-->
+    <string name="wishlist">Wishlist</string>
+    <string name="my_wishlist">Wishlist Saya</string>
+    <string name="you_have_no_products_in_your_wishlist">Belum ada produk di Wishlist</string>
+    <string name="move_to_wishlist">Masukkan Wishlist</string>
+    <string name="move_to_bag">Masukkan Keranjang</string>
+    <!---->
+    <!---->
+    <!--ADDRESS BOOK -->
+    <string name="add_new_address">Tambah Alamat Baru</string>
+    <string name="default_billing_address">Alamat Penagihan Default</string>
+    <string name="dummy_address">Java Computer Jalan Hidayatullah No.14 Samarinda</string>
+    <string name="edit_billing_address">Ubah Alamat Penagihan</string>
+    <string name="default_shipping_address">Alamat Pengiriman Default</string>
+    <string name="edit_shipping_address">Ubah Alamat Pengiriman</string>
+    <string name="change_shipping_address">Ganti Alamat Pengiriman</string>
+    <string name="subheading_shipping_address_X">Alamat Pengiriman - %s</string>
+    <string name="edit_address">Ubah Alamat</string>
+    <string name="delete_address">Hapus Alamat</string>
+    <string name="billing_address">Alamat Penagihan</string>
+    <string name="shipping_address">Alamat Pengiriman</string>
+    <string name="shipping_addresses">Daftar Alamat Pengiriman</string>
+    <string name="additional_address">Alamat Tambahan</string>
+    <string name="telephone">Telp</string>
+    <!--<string name="company">Company</string>-->
+    <string name="street">Jalan</string>
+    <string name="city">Kota</string>
+    <string name="zip_postalcode">Kode Pos</string>
+    <string name="country">Negara</string>
+    <string name="state">Prov</string>
+    <string name="new_address_btn_save_address">Simpan Alamat</string>
+    <string name="select_default_shipping_address">Pilih Alamat Pengiriman Default</string>
+    <string name="set_default">Jadikan Default</string>
+
+    <!---->
+    <!---->
+    <!-- DASHBOARD-->
+    <string name="recent_orders">Pesanan Terakhir</string>
+    <string name="account_information">Informasi Akun</string>
+    <string name="contact_information">Informasi Kontak</string>
+    <string name="edit">Ubah</string>
+    <string name="change_password">Ubah Password</string>
+    <string name="manage_address">Atur Alamat</string>
+    <!---->
+    <!---->
+    <!--ACCOUNT INFO-->
+    <string name="new_password">Password Baru</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="save">Simpan</string>
+    <!---->
+    <!---->
+    <!--PRODUCT PAGE..-->
+    <string name="guest_user">User Tamu</string>
+    <string name="add_to_bag">Tambah ke Keranjang</string>
+    <string name="go_to_bag">Ke Keranjang</string>
+    <string name="buy_now">Beli</string>
+    <string name="qty">Qty:</string>
+    <string name="qty_x_int">Qty: %d </string>
+
+
+    <!---->
+    <!---->
+    <!--BAG PAGE-->
+    <string name="items">barang</string>
+    <string name="total">Total</string>
+    <string name="continue_shopping">Lanjut Belanja</string>
+    <string name="empty_shopping_bag">Kosongkan Keranjang</string>
+    <string name="proceed_to_checkout">Proses Checkout</string>
+    <string name="unit_price">Harga</string>
+    <string name="updating_bag">Update keranjangâ€¦</string>
+    <!---->
+    <!---->
+    <!--CHECKOUT PAGE-->
+    <string name="set_address">Set Alamat</string>
+    <string name="select_payment_method">Pilih Metode Pembayaran</string>
+    <string name="review_order">Review Pesanan</string>
+    <string name="continue_">Lanjut</string>
+    <string name="ship_to_this_address">Kirim ke alamat ini</string>
+    <string name="checkout_subheading_address">Pilih alamat dari buku alamat atau tambah alamat baru.</string>
+    <string name="billing_and_shipping_address">Alamat Penagihan dan Pengiriman</string>
+    <string name="checkout_heading_shipping_method">Metode Pengiriman</string>
+    <string name="checkout_select_a_shipping_method">Pilih Metode Pengiriman</string>
+    <string name="checkout_heading_payment_method">Informasi Pembayaran</string>
+    <string name="checkout_select_a_payment_method">Pilih Metode Pembayaran</string>
+    <string name="checkout_heading_order_review">Review pesanan Anda</string>
+    <string name="order_review_payment_method">Metode Pembayaran</string>
+    <string name="place_order">Lanjut Pesanan</string>
+    <string name="pay_now">Bayar</string>
+    <string name="order_review_product_qty_is_X">Qty: %d</string>
+    <string name="order_review_product_price_is_X">Harga: %s</string>
+    <string name="order_review_product_subtotal_is_X">Subtotal: %s</string>
+    <string name="checkout">Checkout</string>
+    <!---->
+    <!---->
+    <!--RATE APP DIALOG-->
+    <string name="later">Nanti</string>
+    <string name="rate_app">Nilai App</string>
+    <string name="how_was_your_experience_with_us">Bagaimana pengalaman Anda bersama kami?</string>
+    <!---->
+    <!---->
+    <!--Order Place Activity-->
+    <string name="your_order_has_been_received">Pesanan Anda sudah diterima</string>
+    <string name="thank_you_for_your_purchase">Terima kasih atas pembelian Anda!</string>
+    <string name="you_will_receive_an_order_confirmation_email_with_details_of_your_order_and_a_link_to_track_its_progress">Anda akan menerima email konfirmasi dengan detail pesanan Anda.</string>
+    <string name="your_order_id_is_x">ID Pesanan Anda adalah: %s.</string>
+    <string name="title_activity_order_placed">Pesanan Sudah Diorder</string>
+    <!---->
+    <!---->
+    <!--Stripe Payment-->
+    <string name="pay_with_new_card">Bayar dengan kartu baru</string>
+    <string name="write_your_review">Tulis Review Anda</string>
+    <string name="write_review_title">Tulis Judul Review</string>
+    <string name="please_enter_required_details">Silakan masukkan detail yang dibutuhkan</string>
+    <string name="resend_verification_link">Kirim Ulang Link Verifikasi</string>
+    <string name="average_rating_out_of_5">%1$.1f /5</string>
+    <string name="x_customer_reviews">%1$d review</string>
+    <string name="be_the_first_to_write_a_review">Jadi yang pertama menulis review</string>
+    <string name="email_activation_text">Email Anda belum diverifikasi. Untuk verifikasi, klik tombol KIRIM ULANG LINK VERIFIKASI untuk mengirim link ke alamat email Anda.</string>
+    <string name="please_add_your_rating">Silakan tambahkan rating Anda!</string>
+    <!---->
+    <!---->
+    <!--Marketplace-->
+    <string name="sold_by">Dijual oleh</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="do_you_want_to_become_a_seller">Apaka Anda ingin jadi penjual/vendor?</string>
+    <string name="seller_dashboard">Halaman Depan Penjual</string>
+    <string name="register">Daftar</string>
+    <string name="become_seller_activity_title">Menjadi Penjual</string>
+
+    <!---->
+    <!---->
+
+    <!--Customization-->
+    <string name="forecast_quantity_x">%1$d produk tersedia</string>
+    <string name="out_of_stock">Stok Kosong.</string>
+    <string name="product_not_available_in_this_quantity">Jumlah produk tidak cukup.</string>
+    <string name="product_not_available_in_this_combination">Produk tidak tersedia</string>
+    <string name="profile_url">URL Profil</string>
+    <string name="order_review_shipping">Pengiriman</string>
+    <string name="seller_profile">Profil Penjual</string>
+    <string name="ask_to_admin">Tanya Admin</string>
+    <string name="seller_orders">Pesanan Penjual</string>
+    <string name="language">Bahasa</string>
+
+    <!--Fingerprint-->
+    <string name="fingerprint_login_header">Login Sidik Jari</string>
+    <string name="ok">OK</string>
+    <string name="cancel">BATAL</string>
+    <string name="no_fingerprint_permission">Fingerprint authentication permission not enabled</string>
+    <string name="no_fingerprint_registered">Register at least one fingerprint in Settings</string>
+    <string name="no_lock_screen_security">Lock screen security not enabled in Settings</string>
+    <string name="place_your_finger_on_sensor">Place your finger on sensor</string>
+    <string name="fingerprint_authentication">Fingerprint Authentication</string>
+    <string name="ask_for_fingerprint_login">Would you like to opt for fingerprint login?</string>
+    <string name="fingerprint_error">Fingerprint error occurred. Check your security settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragmen kosong</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="download_started">Download mulai</string>
+    <string name="no_items_yet">Belum ada barang</string>
+    <string name="manage_your_wishlist_by_tapping_on_heart_icon">Atur wishlist anda dengan menekan icon Hati.</string>
+    <string name="fingerprint_login">Login Sidik Jari</string>
+    <string name="yes">Ya</string>
+    <string name="no_terms_and_conditions_to_display">Tidak ada Syarat &amp; Kondisi </string>
+    <string name="access_denied_message"> Anda perlu lgoin ulang di aplikasi untuk melanjutkan </string>
+    <string name="delete_my_image">Hapus Gambar</string>
+    <string name="label_order_delivery_orders">Pengiriman</string>
+    <string name="label_order_transactions">Transaksi</string>
+    <string name="add_image">Tambah Gambar</string>
+    <string name="search_by_scanning">Cari dengan Scan</string>
+    <string name="scan_as_text">Scan Teks</string>
+    <string name="scan_as_image">Scan Produk</string>
+    <string name="error_while_using_flash">Terdapat error ketika mengakses flash di alat Anda.</string>
+    <string name="results_found"> Hasil Ditemukan</string>
+
+    <string name="action_geolocate">Pilih Lokasi</string>
+    <string name="default_info_title">Lokasi Default</string>
+    <string name="default_info_snippet">Tidak ada tempat, karena ijin lokasi di-nonaktifkan.</string>
+    <string name="permission_denied">Permisi ditolak untuk membaca lokasi Anda</string>
+    <string name="alternative_products">Produk Alernatif:</string>
+    <string name="recent_view_products">Produk Terakhir Dilihat</string>
+
+    <!-- Abandoned Cart Alarm-->
+    <string name="abandoned_cart">Ada Belanjaan di Keranjang</string>
+    <string name="your_cart_misses_you">Keranjang Belanja Anda Menunggu!</string>
+    <string name="products_waiting_in_cart_msg">Ada belanjaan menunggu di keranjang belanja Anda. Buruan!</string>
+    <string name="lightMode">Mode Cahaya</string>
+    <string name="darkMode">Mode Gelap</string>
+    <string name="permission_confirmation">Permission confirmation</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+</resources>

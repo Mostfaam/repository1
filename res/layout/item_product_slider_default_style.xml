@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="data"
+            type="com.yosefmoq.odoo.model.generic.ProductSliderData" />
+
+
+        <variable
+            name="handler"
+            type="com.yosefmoq.odoo.handler.generic.ProductSliderHandler" />
+
+    </data>
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/spacing_generic"
+        android:background="@color/bottomNavigationBackground"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/spacing_normal"
+        android:paddingEnd="0dp"
+        android:paddingLeft="@dimen/spacing_normal"
+        android:paddingRight="0dp"
+        android:paddingStart="@dimen/spacing_normal"
+        android:paddingTop="@dimen/spacing_normal">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/spacing_tiny"
+            android:layout_marginEnd="@dimen/spacing_normal"
+            android:layout_marginRight="@dimen/spacing_normal"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAlignment="viewStart"
+                android:gravity="center_vertical|start"
+                android:text="@{data.title}"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textStyle="bold"
+                tools:text="Featured Categories" />
+
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_gradient_color_rad"
+                android:gravity="center_vertical|end"
+                android:onClick="@{(v)->handler.viewAll(data.url, data.title)}"
+                android:text="@string/view_all"
+                android:textColor="@color/white"
+                android:paddingHorizontal="12dp"
+                android:paddingVertical="5dp"
+                android:textSize="@dimen/text_size_small"
+                android:textStyle="bold" />
+
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/products_rv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:nestedScrollingEnabled="false"
+            android:background="@color/bottomNavigationBackground"
+            android:orientation="horizontal"
+            android:layout_marginTop="12dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/item_product_grid"
+            tools:targetApi="lollipop" />
+
+
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/banner_view_pager"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/banner_size_generic"
+            android:clipToPadding="false"
+            android:nestedScrollingEnabled="false"
+            android:paddingStart="@dimen/spacing_generic"
+            android:paddingLeft="@dimen/spacing_generic"
+            android:paddingEnd="@dimen/spacing_generic"
+            android:paddingRight="@dimen/spacing_generic"
+            android:scaleType="fitCenter"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@+id/card_view"
+            tools:background="@color/badge_background_color"
+            tools:ignore="UnusedAttribute" />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</layout>
